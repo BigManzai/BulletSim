@@ -7,4 +7,4 @@
     libBulletSim-3.26-20231209-x86_64.so
 
 ## Fazit
-Die Original libBulletSim ist auf Ubuntu 20 gebaut worden und ich habe den Eindruck das diese auf einem Ubuntu 22 Server langsamer läuft.
+Die Original libBulletSim ist auf Ubuntu 20 gebaut worden und ich habe den Eindruck das diese auf einem Ubuntu 22 Server langsamer läuft, als eine Bullet Version die direkt auf einem Ubuntu 22.04 gebaut wurde.
